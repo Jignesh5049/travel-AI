@@ -1,0 +1,16 @@
+{
+  "name": "travel-ai",
+  "version": "1.0.0",
+  "description": "AI Mood-Based Travel Planner",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start",
+    "backend": "cd api_server && npm start",
+    "ml": "cd ml_engine && uvicorn main:app --reload --port 8000"
+  },
+  "keywords": ["travel", "ai", "ml", "mood-based"],
+  "author": "",
+  "license": "MIT"
+}
+
