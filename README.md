@@ -232,7 +232,3 @@ Primary persisted document: itineraries
 - Add authentication and authorization for itinerary persistence
 - Add rate limiting and abuse protection
 - Add CI for lint, tests, and dependency security scanning
-
-## License
-
-MIT
